@@ -26,8 +26,7 @@
   
     "links": [
       {"rel": "self", "href": "https://example.com/manifest.json", "type": "application/webpub+json"},
-      {"rel": "alternate", "href": "https://example.com/publication.epub", "type": "application/epub+zip"},
-      {"rel": "search", "href": "https://example.com/search{?query}", "type": "text/html", "templated": true}
+      {"rel": "alternate", "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/page-blanche.epub", "type": "application/epub+zip"}
     ],
     
     "readingOrder": [
